@@ -5,7 +5,7 @@
 
 # Cast of Characters
 
-- Barry
-- Iris
-- Cisco
+- Barry: played by Luke parker
+- Iris: played by Megan Obrian
+- Cisco: played by Omar Sagoo
 
